@@ -1,6 +1,0 @@
-Array -:Sometimes called as a list organizes items sequencially one after another in memory.
-lookup => O(1)
-push => O(1)
-insert => O(n)
-delete => O(n)
- 
