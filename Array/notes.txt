@@ -34,3 +34,65 @@ cons-
 
 
 colision
+
+Arrays VS Hash Tables
+
+Differences
+
+
+similarities
+
+
+
+Review--
+
+Fast lookups*   (goood collision resolution neede)
+fast inserts
+flexible keys
+
+downside of hashtable-:
+unordered
+Slow Key iteration
+
+
+
+3. Linked Lists
+Definition-
+
+
+
+prepend => O(1)
+append => O(1) 
+lookup => O(n)
+insert => O(n)
+delete => O(n)
+
+
+singly linked list
+
+Doubly linked  list
+
+
+
+singly linked list vs Doubly linked  list?
+
+
+
+Why linked list is better than array and hash table or not+?
+
+
+Pointer -
+it is a reference for a memory,object..
+
+
+
+
+linked list pros and cons
+-Fast Insertion
+-Fast Deletion
+-Ordered
+-Flexible Size
+
+-Slow lookup
+-More Memory
+
