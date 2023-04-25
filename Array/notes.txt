@@ -96,3 +96,69 @@ linked list pros and cons
 -Slow lookup
 -More Memory
 
+
+
+
+Stack and Queue - linear DS
+
+Stack -LIFO
+lookup => O(n)
+pop => O(1)
+push => O(1)
+peek => O(1)
+
+
+Example-
+
+Queues - FIFO 
+lookup => O(n)
+enqueue => O(1)
+dequeue => O(1)
+peek => O(1)
+
+Example-
+
+pros and cons-
+Fast operations
+fast peek
+Ordered
+
+slow lookup
+
+
+Can be implement by arrays and linked list
+which one is better?
+
+
+Hoow does javascript work?
+
+
+What is a program?
+-allocate memory
+-parse and execute
+
+javascript Engine?
+Memory heap 
+call stack
+
+memory leak?
+
+
+Explain Difference between asynchronous vs synchronous?
+
+
+javascript is a single threaded language that can be non-blocking?
+
+why js design to be a single thread?
+
+
+what Stackoverflow mean?
+
+
+javascript run-time environment?
+
+
+
+
+
+
